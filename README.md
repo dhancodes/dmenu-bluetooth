@@ -1,5 +1,3 @@
-## What
-
 A dmenu interface for connecting to bluetooth devices with bluetoothctl as
 backend.
 
