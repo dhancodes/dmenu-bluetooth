@@ -5,3 +5,5 @@ backend.
 
 - dmenu
 - bluetoothctl
+
+![](kopimi-sm.png)
